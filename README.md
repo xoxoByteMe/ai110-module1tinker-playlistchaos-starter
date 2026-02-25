@@ -111,3 +111,10 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+
+The summary should be 5–7 sentences covering:
+
+-- SUMMARY --
+
+The challenging part for students might be understanding the code and its logic all at once. In addition, to understanding errors and how to pinpoint them. The core concept that students need to understand is to explore and study the code part by part at a time (really test it). The AI was very helpful in idenitfying the errors of the program and explaining why it was outputting the wrong thing. It became a bit misleading when it started making changes to the file that broke the code due to an insufficient prompt.
+One way to guide the student without giving the answer is to discuss with them the specific error that they saw first and ask guiding questions that leads them to potential functions that influence the section of error.
